@@ -7,7 +7,7 @@ const CustomNavbar = () => {
             <Container>
                 <Navbar.Brand href="#home">
                     <img src="../public/x.png " alt="logo" style={{width:"300px"}} />
-                    News
+                    
                 </Navbar.Brand>
                 <Nav className="me-auto">
                     <Link className="nav-link" to="/">Home</Link>
